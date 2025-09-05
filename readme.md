@@ -24,6 +24,10 @@ ifconfig Display network interface
 
 chmod chang efile permissions 
 
+zip create zip archive
+
+Specify the name of the zip and the files in arguments.
+
 Git
 
 git init Will initilize active directory as a repository
@@ -55,4 +59,7 @@ git merge Merge branch history into current
 git clone retrieve repository from a url
 
 specify url as an argument
+
+git rm Remove file and stage the removal
+
  
