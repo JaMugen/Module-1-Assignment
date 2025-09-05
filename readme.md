@@ -34,6 +34,9 @@ env list all enviromental variables
 
 ps display running process
 
+kill terminate a process
+
+
 Git
 
 git init Will initilize active directory as a repository
@@ -73,6 +76,8 @@ git mv Move file and stage the move
 git pull fetch and merge commits from working branch
 
 git config --global user.name set the name of user for credit
+
+git config --global user.emial Set the users emial for each history marker
 
 
  
