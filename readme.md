@@ -14,6 +14,9 @@ cp copy file to a new file
 
 Provide the current and new file as arguments
 
+mv Move/rename files
+
+
 Git
 
 git init Will initilize active directory as a repository
@@ -28,4 +31,7 @@ git status Shows the status of modified files
 
 git diff Shows changes that are not staged
 
+git commit Wil commit the staged changes to a new snapshot
+
+-m option will allow message to be written as a argument
  
