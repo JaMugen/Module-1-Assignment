@@ -16,6 +16,7 @@ Provide the current and new file as arguments
 
 mv Move/rename files
 
+touch create and empty file
 
 Git
 
@@ -34,4 +35,8 @@ git diff Shows changes that are not staged
 git commit Wil commit the staged changes to a new snapshot
 
 -m option will allow message to be written as a argument
+
+git branch wil print a list of branches
+
+Providing a new branch name as an argument will create a new branch
  
