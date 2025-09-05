@@ -20,6 +20,8 @@ touch create and empty file
 
 cat view contents of a file
 
+ifconfig Display network interface
+
 Git
 
 git init Will initilize active directory as a repository
@@ -46,5 +48,5 @@ git checkout Will switch to new branch
 
 -b allows the creation of a branch provided as an argument tha twill be switched to.
 
-
+git merge Merge branch history into current
  
