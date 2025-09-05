@@ -18,6 +18,8 @@ mv Move/rename files
 
 touch create and empty file
 
+cat view contents of a file
+
 Git
 
 git init Will initilize active directory as a repository
@@ -39,4 +41,10 @@ git commit Wil commit the staged changes to a new snapshot
 git branch wil print a list of branches
 
 Providing a new branch name as an argument will create a new branch
+
+git checkout Will switch to new branch
+
+-b allows the creation of a branch provided as an argument tha twill be switched to.
+
+
  
