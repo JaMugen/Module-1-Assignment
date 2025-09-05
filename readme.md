@@ -32,6 +32,8 @@ whoami Displays the current username
 
 env list all enviromental variables
 
+ps display running process
+
 Git
 
 git init Will initilize active directory as a repository
@@ -68,4 +70,9 @@ git rm Remove file and stage the removal
 
 git mv Move file and stage the move
 
-git pull fetch and merge commits from working branch 
+git pull fetch and merge commits from working branch
+
+git config --global user.name set the name of user for credit
+
+
+ 
