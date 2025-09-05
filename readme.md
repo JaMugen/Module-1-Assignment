@@ -22,6 +22,8 @@ cat view contents of a file
 
 ifconfig Display network interface
 
+chmod chang efile permissions 
+
 Git
 
 git init Will initilize active directory as a repository
@@ -49,4 +51,8 @@ git checkout Will switch to new branch
 -b allows the creation of a branch provided as an argument tha twill be switched to.
 
 git merge Merge branch history into current
+
+git clone retrieve repository from a url
+
+specify url as an argument
  
