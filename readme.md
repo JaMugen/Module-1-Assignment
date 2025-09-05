@@ -28,6 +28,8 @@ zip create zip archive
 
 Specify the name of the zip and the files in arguments.
 
+whoami Displays the current username
+
 Git
 
 git init Will initilize active directory as a repository
@@ -62,4 +64,5 @@ specify url as an argument
 
 git rm Remove file and stage the removal
 
+git mv Move file and stage the move
  
